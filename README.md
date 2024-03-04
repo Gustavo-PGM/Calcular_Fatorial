@@ -1,4 +1,4 @@
-# Fatoração Mágica ✨
+# Fatoração ➗
 
 Este simples script em Python permite que você descubra o fatorial de qualquer número inteiro que você digitar. É como ter uma calculadora instantânea para fatoriais!
 
